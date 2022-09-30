@@ -26,4 +26,6 @@ echo var_dump($unknow3),'</br>';
 echo var_dump($unknow4),'</br>';
 echo var_dump($one),'</br>';//bool(true)
 echo var_dump($two),'</br>';#bool(false)
+echo ($one),'</br>';#bool(true)
+echo $one,'</br>';#bool(true)
 ?>
