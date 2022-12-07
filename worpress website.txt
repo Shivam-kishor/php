@@ -1,0 +1,19 @@
+worpress website  .org is best download
+.com is worst as it is advertisement
+
+localhost/worpress
+
+localhost/phpmyadmin
+
+***
+Welcome to WordPress. Before getting started, you will need to know the following items.
+
+Database name
+Database username
+Database password
+Database host
+Table prefix (if you want to run more than one WordPress in a single database)
+This information is being used to create a wp-config.php file. If for any reason this automatic file creation does not work, do not worry. All this does is fill in the database information to a configuration file. You may also simply open wp-config-sample.php in a text editor, fill in your information, and save it as wp-config.php. Need more help? Read the support article on wp-config.php.
+
+In all likelihood, these items were supplied to you by your web host. If you do not have this information, then you will need to contact them before you can continue. If you are ready…
+***
